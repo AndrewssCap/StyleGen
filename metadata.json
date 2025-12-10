@@ -1,0 +1,5 @@
+{
+  "name": "StyleGen",
+  "description": "A powerful visual style generator that extracts color palettes, typography, and interface styles from URLs or images.",
+  "requestFramePermissions": []
+}
